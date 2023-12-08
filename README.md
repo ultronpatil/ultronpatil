@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋 There, I am Swapnil Patil</h1>
 <h3 align="center">A smartworking CSE Student</h3>
-<img align="right" alt="mypic" widht="400" !(logo)[https://github.com/ultronpatil/ultronpatil/blob/main/bruce.gif?raw=true]>
+<div align="right" alt="mypic" widht="400">!(logo)[https://github.com/ultronpatil/ultronpatil/blob/main/bruce.gif?raw=true]</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ultronpatil&label=Profile%20views&color=0e75b6&style=flat" alt="ultronpatil" /> </p>
 
 - 🔭 I’m currently working on [Parking Slot Booking System With IoT](https://github.com/ultronpatil/park_your_ride)
