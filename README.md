@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋 There, I am Swapnil Patil</h1>
+<h1 align="center">Hello There, I am Swapnil Patil</h1>
 <h3 align="center">A smartworking CSE Student</h3>
 <img align="right" width="400" src="https://img.freepik.com/premium-vector/vector-flat-illustration-software-developer-cyber-program-security_776789-206.jpg?w=740">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ultronpatil&label=Profile%20views&color=0e75b6&style=flat" alt="ultronpatil" /> </p>
