@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on [Parking Slot Booking System With IoT](https://github.com/ultronpatil/park_your_ride)
 
+- 🧮 also working on [MusicPlayer - a react native app](https://github.com/ultronpatil/MusicPlayer_React_native)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/swapnil patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnil patil" height="30" width="40" /></a>
