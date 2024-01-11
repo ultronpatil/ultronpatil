@@ -1,6 +1,6 @@
 <h1 align="center">Hello There, I am Swapnil Patil</h1>
 <h3 align="center">A smartworking CSE Student</h3>
-<img align="right" width="400" src="https://www.freepik.com/free-vector/freelance-working-home_6086064.htm#query=man%20with%20computer&position=32&from_view=keyword&track=ais&uuid=f47c6ee0-b009-42ce-9fb1-a1140dc85f69">
+![Freelance Working from Home](https://www.freepik.com/free-vector/freelance-working-home_6086064.htm#query=man%20with%20computer&position=32&from_view=keyword&track=ais&uuid=f47c6ee0-b009-42ce-9fb1-a1140dc85f69)
 
 - 🔭 I’m currently working on [Parking Slot Booking System With IoT](https://github.com/ultronpatil/park_your_ride)
 
