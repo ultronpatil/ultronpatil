@@ -76,8 +76,6 @@
 
 <br/>
 
-<div align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=ultronpatil&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultronpatil&theme=synthwave"/>
-</div>
-<br/>
+<div style="display: flex; justify-content: center;"><div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ultronpatil&show_icons=true&locale=en&layout=compact" alt="ultronpatil" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ultronpatil&show_icons=true&locale=en" alt="ultronpatil" /></p></div></div>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ultronpatil&" alt="ultronpatil" /></p
