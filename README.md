@@ -43,16 +43,7 @@
 	<img src="https://img.icons8.com/nolan/64/mysql.png" alt="MySQL" width="60" height="60"/>
 	<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="60" height="60"/>
 </td>  
-</tr>  
-<tr align="center">  
-<td width="50%"><strong>Blockchain</strong></td>  
-<td width="50%">
-	<img width="36px" src="https://img.icons8.com/fluent/48/000000/ethereum.png"/>
-    <img width="36px" height="34px" src="https://www.trufflesuite.com/img/truffle-logomark.svg"/>
-    <img width="36px" height="34px" src="https://www.trufflesuite.com/img/ganache-logomark.svg"/>
-    <img width="36px" height="34px" src="https://cdn.iconscout.com/icon/free/png-512/metamask-2728406-2261817.png"/>
-</td>  
-</tr>  
+</tr>    
 <tr align="center">  
 <td width="50%"><strong>Version Control</strong></td>  
 <td width="50%">
