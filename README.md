@@ -31,7 +31,7 @@
 	<img width="36px" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
 	<img alt="Redux" width="36px" src="https://img.icons8.com/color/48/000000/redux.png"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="AngularJS" width="60" height="60"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="60" height="60"/>
+	
 </td>  
 </tr>  
 <tr align="center">  
