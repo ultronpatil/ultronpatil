@@ -65,7 +65,7 @@
     <td style="width:600px;">
       <img width="40px" src="https://avatars.githubusercontent.com/u/23945339?s=200&v=4" alt="Burp Suite"/>
       <img width="40px" src="https://img.icons8.com/color/48/000000/security-checked.png" alt="Cybersecurity"/>
-      <img width="40px" src="https://github.com/ultronpatil/ultronpatil/assets/108104108/9998f7c0-0165-4c5c-a207-8e9b6ea78d18" alt="Kali Linux"/>
+      <img width="40px" src="https://commons.wikimedia.org/wiki/File:Kali-dragon-icon.svg" alt="Kali Linux"/>
     </td>
   </tr>
 
