@@ -12,9 +12,12 @@
 
 
 
-### Languages and Technologies:
 
-<table width="100%">
+### 🧠 Languages and Technologies
+
+<div align="center">
+
+<table style="width:100%;">
   <tr align="center">
     <td width="50%"><strong>Languages</strong></td>
     <td width="50%">
@@ -88,6 +91,8 @@
     </td>
   </tr>
 </table>
+
+</div>
 
 
 
