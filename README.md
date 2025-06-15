@@ -13,86 +13,72 @@
 
 
 
-### 🧠 Languages and Technologies
+### Languages and Technologies:
 
-<div align="center">
+<table width="100%">  
+  <tr align="center">  
+    <td width="545"><strong>Languages & Web</strong></td>  
+    <td width="466">
+      <img width="36px" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+      <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+      <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5"/>
+      <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3"/>
+      <img width="36px" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>
+    </td>  
+  </tr>  
 
-<table style="width:100%;">
-  <tr align="center">
-    <td style="width:180px;"><strong>Languages</strong></td>
-    <td style="width:600px;">
-      <img width="40px" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-      <img width="40px" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-      <img width="40px" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
-      <img width="40px" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-    </td>
+  <tr align="center">  
+    <td><strong>Backend & Database</strong></td>  
+    <td>
+      <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js"/>
+      <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"/>
+      <img width="60px" src="https://img.icons8.com/nolan/64/mysql.png" alt="MySQL"/>
+    </td>  
   </tr>
 
-  <tr align="center">
-    <td style="width:180px;"><strong>Frameworks & UI</strong></td>
-    <td style="width:600px;">
-      <img width="40px" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>
-      <img width="40px" src="https://img.icons8.com/ios-filled/50/2489ca/salesforce.png" alt="Salesforce"/>
-      <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js"/>
-    </td>
+  <tr align="center">  
+    <td><strong>Cloud & Platforms</strong></td>  
+    <td>
+      <img width="36px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
+      <img width="36px" src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud"/>
+      <img width="36px" src="https://img.icons8.com/ios-filled/50/2489ca/salesforce.png" alt="Salesforce"/>
+      <img width="60px" src="https://img.icons8.com/color/48/000000/vmware.png" alt="VMware"/>
+    </td>  
   </tr>
 
-  <tr align="center">
-    <td style="width:180px;"><strong>Databases</strong></td>
-    <td style="width:600px;">
-      <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"/>
-    </td>
+  <tr align="center">  
+    <td><strong>IoT Devices</strong></td>  
+    <td>
+      <img width="36px" src="https://img.icons8.com/ios-filled/50/000000/arduino.png" alt="Arduino"/>
+      <img width="60px" src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry Pi"/>
+    </td>  
   </tr>
 
-  <tr align="center">
-    <td style="width:180px;"><strong>Cloud Platforms</strong></td>
-    <td style="width:600px;">
-      <img width="40px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS Cloud"/>
-      <img width="40px" src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud"/>
-    </td>
-  </tr>
-
-  <tr align="center">
-    <td style="width:180px;"><strong>IoT & Devices</strong></td>
-    <td style="width:600px;">
-      <img width="40px" src="https://img.icons8.com/ios-filled/50/000000/arduino.png" alt="Arduino"/>
-      <img width="40px" src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry Pi"/>
-    </td>
-  </tr>
-
-  <tr align="center">
-    <td style="width:180px;"><strong>Cybersecurity</strong></td>
-    <td style="width:600px;">
+  <tr align="center">  
+    <td><strong>Cybersecurity</strong></td>  
+    <td>
       <img width="40px" src="https://avatars.githubusercontent.com/u/23945339?s=200&v=4" alt="Burp Suite"/>
-      <img width="40px" src="https://img.icons8.com/color/48/000000/security-checked.png" alt="Cybersecurity"/>
-      <img width="40px" src="https://commons.wikimedia.org/wiki/File:Kali-dragon-icon.svg" alt="Kali Linux"/>
-    </td>
+      <img width="36px" src="https://img.icons8.com/color/48/000000/security-checked.png" alt="Cybersecurity"/>
+      <img width="60px" src="https://github.com/ultronpatil/ultronpatil/assets/108104108/9998f7c0-0165-4c5c-a207-8e9b6ea78d18" alt="Kali Linux"/>
+    </td>  
   </tr>
 
-  <tr align="center">
-    <td style="width:180px;"><strong>Virtualization</strong></td>
-    <td style="width:600px;">
-      <img width="40px" src="https://img.icons8.com/color/48/000000/vmware.png" alt="VMware"/>
-    </td>
+  <tr align="center">  
+    <td><strong>AI / ML</strong></td>  
+    <td>
+      <img width="36px" src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="AI"/>
+    </td>  
   </tr>
 
-  <tr align="center">
-    <td style="width:180px;"><strong>AI & ML</strong></td>
-    <td style="width:600px;">
-      <img width="40px" src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="AI"/>
-    </td>
-  </tr>
-
-  <tr align="center">
-    <td style="width:180px;"><strong>Design & Media</strong></td>
-    <td style="width:600px;">
-      <img width="40px" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop"/>
-      <img width="40px" src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" alt="After Effects"/>
-    </td>
+  <tr align="center">  
+    <td><strong>Design & Media</strong></td>  
+    <td>
+      <img width="36px" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop"/>
+      <img width="36px" src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" alt="After Effects"/>
+    </td>  
   </tr>
 </table>
 
-</div>
 
 
 
