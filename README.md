@@ -10,63 +10,90 @@
 <a href="https://linkedin.com/in/swapnil patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnil patil" height="30" width="40" /></a>
 </p>
 
+
+
 ### Languages and Technologies:
 
-<table width="100%">  
-<tr align="center">  
-<td width="545"><strong>Languages</strong></td>  
-<td width="466">
-	<img width="36px" src="https://img.icons8.com/color/50/000000/typescript.png"/>
-	<img width="36px" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-	<img width="36px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/>
-</td>  
-</tr>  
-<tr align="center">  
-<td width="50%"><strong>Frontend</strong></td>  
-<td width="50%">
-	<img width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React"/>
-	<img width="36px" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
-	<img alt="Redux" width="36px" src="https://img.icons8.com/color/48/000000/redux.png"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="AngularJS" width="60" height="60"/>
-	
-</td>  
-</tr>  
-<tr align="center">  
-<td width="50%"><strong>Backend</strong></td>  
-<td width="50%">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60"/>
-	<img alt="Express.js" width="36px" src="https://img.icons8.com/color/48/000000/js.png" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60"/>
-	<img src="https://img.icons8.com/nolan/64/mysql.png" alt="MySQL" width="60" height="60"/>
-	<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="60" height="60"/>
-</td>  
-</tr>    
-<tr align="center">  
-<td width="50%"><strong>Version Control</strong></td>  
-<td width="50%">
-	<img alt="Git" width="36px" src="https://img.icons8.com/color/64/000000/git.png"/>
-	<img alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-</td>  
-</tr>  
-<tr align="center">  
-<td width="50%"><strong>Cloud Tech</strong></td>  
-<td width="50%">
-	<img width="36px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-</td>  
-</tr> 
-<tr align="center">  
-<td width="50%"><strong>Computer Vision</strong></td>  
-<td width="50%">
-	<img width="36px" src="https://img.icons8.com/fluent/48/000000/opencv.png"/>
-</td>  
-</tr> 
+<table width="100%">
+  <tr align="center">
+    <td width="50%"><strong>Languages</strong></td>
+    <td width="50%">
+      <img width="40px" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+      <img width="40px" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+      <img width="40px" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
+      <img width="40px" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+    </td>
+  </tr>
+
+  <tr align="center">
+    <td><strong>Frameworks & UI</strong></td>
+    <td>
+      <img width="40px" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>
+      <img width="40px" src="https://img.icons8.com/ios-filled/50/2489ca/salesforce.png" alt="Salesforce"/>
+      <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js"/>
+    </td>
+  </tr>
+
+  <tr align="center">
+    <td><strong>Databases</strong></td>
+    <td>
+      <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"/>
+    </td>
+  </tr>
+
+  <tr align="center">
+    <td><strong>Cloud Platforms</strong></td>
+    <td>
+      <img width="40px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS Cloud"/>
+      <img width="40px" src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud"/>
+    </td>
+  </tr>
+
+  <tr align="center">
+    <td><strong>IoT & Devices</strong></td>
+    <td>
+      <img width="40px" src="https://img.icons8.com/ios-filled/50/000000/arduino.png" alt="Arduino"/>
+      <img width="40px" src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry Pi"/>
+    </td>
+  </tr>
+
+  <tr align="center">
+    <td><strong>Cybersecurity</strong></td>
+    <td>
+      <img width="40px" src="https://avatars.githubusercontent.com/u/23945339?s=200&v=4" alt="Burp Suite"/>
+      <img width="40px" src="https://img.icons8.com/color/48/000000/security-checked.png" alt="Cybersecurity"/>
+      <img width="40px" src="https://github.com/ultronpatil/ultronpatil/assets/108104108/9998f7c0-0165-4c5c-a207-8e9b6ea78d18" alt="Kali Linux"/>
+    </td>
+  </tr>
+
+  <tr align="center">
+    <td><strong>Virtualization</strong></td>
+    <td>
+      <img width="40px" src="https://img.icons8.com/color/48/000000/vmware.png" alt="VMware"/>
+    </td>
+  </tr>
+
+  <tr align="center">
+    <td><strong>AI & Machine Learning</strong></td>
+    <td>
+      <img width="40px" src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="AI"/>
+    </td>
+  </tr>
+
+  <tr align="center">
+    <td><strong>Design & Media</strong></td>
+    <td>
+      <img width="40px" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop"/>
+      <img width="40px" src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" alt="After Effects"/>
+    </td>
+  </tr>
 </table>
+
+
+
 
 <br/>
 
 <div style="display: flex; justify-content: center;"><div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ultronpatil&show_icons=true&locale=en&layout=compact" alt="ultronpatil" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ultronpatil&show_icons=true&locale=en" alt="ultronpatil" /></p></div></div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ultronpatil&" alt="ultronpatil" /></p
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ultronpatil&" alt="ultronpatil" /></p>
